@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/grievance-app/static/css/main.47a794dd.chunk.css",
+    "main.js": "/grievance-app/static/js/main.d0606745.chunk.js",
+    "main.js.map": "/grievance-app/static/js/main.d0606745.chunk.js.map",
+    "runtime-main.js": "/grievance-app/static/js/runtime-main.3a111c8b.js",
+    "runtime-main.js.map": "/grievance-app/static/js/runtime-main.3a111c8b.js.map",
+    "static/js/2.db2df229.chunk.js": "/grievance-app/static/js/2.db2df229.chunk.js",
+    "static/js/2.db2df229.chunk.js.map": "/grievance-app/static/js/2.db2df229.chunk.js.map",
+    "static/js/3.6a080099.chunk.js": "/grievance-app/static/js/3.6a080099.chunk.js",
+    "static/js/3.6a080099.chunk.js.map": "/grievance-app/static/js/3.6a080099.chunk.js.map",
+    "index.html": "/grievance-app/index.html",
+    "static/css/main.47a794dd.chunk.css.map": "/grievance-app/static/css/main.47a794dd.chunk.css.map",
+    "static/js/2.db2df229.chunk.js.LICENSE.txt": "/grievance-app/static/js/2.db2df229.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a111c8b.js",
+    "static/js/2.db2df229.chunk.js",
+    "static/css/main.47a794dd.chunk.css",
+    "static/js/main.d0606745.chunk.js"
+  ]
+}
